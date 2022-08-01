@@ -15,6 +15,12 @@ Compiler that reads Brainfuck source code and compiles it down to an executable 
 2. Run the command: "Brainfuck Compiler.exe" hello_world.bf 20
 3. Run the command: main.exe
 
+## Usage in Visual Studio
+1. Install Visual Studio
+2. Open `.sln` file
+3. Open project properties >> Debugging >> set Command Arguments to desired file and memory size
+4. Save setting and run in Visual Studio
+
 ---
 
 # How it Works
