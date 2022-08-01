@@ -17,11 +17,9 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
@@ -352,3 +350,4 @@ MigrationBackup/
 **/mllink$.lnk
 **/main.asm
 **/main.exe
+Brainfuck Compiler/x64
